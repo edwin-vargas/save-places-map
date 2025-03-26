@@ -1,0 +1,5 @@
+Articulo con opciones de mapas
+https://www.geeksforgeeks.org/top-10-javascript-libraries-for-creating-interactive-maps/#here-javascript-api
+
+OpenStreetMaps --too much
+https://github.com/openstreetmap/iD/wiki/How-to-get-started#build-and-test-instructions
