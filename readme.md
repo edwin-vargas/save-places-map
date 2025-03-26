@@ -11,3 +11,8 @@ Los estudiantes desarrollarán una aplicación web que mostrará un mapa interac
 - [ ] Búsqueda y filtros: Incluir una barra de búsqueda y filtros por tipo de lugar.
 - [ ] Base de datos: Guardar los lugares registrados para que otros usuarios puedan verlos.
 - [ ] Geolocalización: Opcionalmente, integra la ubicación del usuario para mostrar lugares cercanos.
+
+## Integrantes
+
+- [Edwin Manuel Mata Vargas](https://github.com/edwin-vargas)
+- [Frida Citlali Penagos Morales](www.google.com)
