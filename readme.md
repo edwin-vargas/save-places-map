@@ -15,4 +15,4 @@ Los estudiantes desarrollarán una aplicación web que mostrará un mapa interac
 ## Integrantes
 
 - [Edwin Manuel Mata Vargas](https://github.com/edwin-vargas)
-- [Frida Citlali Penagos Morales](www.google.com)
+- [Frida Citlali Penagos Morales](https://github.com/Citlalli912)
